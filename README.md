@@ -1,5 +1,6 @@
 # income_tax
-Personal income tax online calculation for Russia
+Personal income tax online calculation for Russia 
+
 Hi, I’m Alexei 
 - 👀 I’m interested in python, ML, AI
 - 🌱 I’m currently learning ML and big data
