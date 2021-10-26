@@ -1,4 +1,6 @@
 # income_tax
+for actual version please visit another repo named flexobender/nalog
+
 Personal income tax online calculation for Russia 
 
 Hi, I’m Alexei 
